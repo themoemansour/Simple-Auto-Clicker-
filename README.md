@@ -43,5 +43,5 @@ Designed for precision, speed, and usability — featuring a polished UI, global
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ultra-autoclicker-pro.git
-cd ultra-autoclicker-pro
+git clone https://github.com/themoemansour/Simple-Auto-Clicker.git
+cd Simple-Auto-Clicker
